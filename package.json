@@ -5,7 +5,7 @@
   "author": "Afshin Mehrabani <afshin.meh@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/usablica/intro.js"
+    "url": "https://github.com/nkhanh90/intro.js"
   },
   "devDependencies": {
     "node-minify": "*"
